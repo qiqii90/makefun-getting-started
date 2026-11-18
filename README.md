@@ -8,9 +8,9 @@ make.fun pays people to build software with AI. Someone posts a task with a cash
 
 This guide walks you through your first entry, from zero to submitted. It takes about an hour the first time, less after that. I wrote it after entering bounties myself, so the tips in it are the ones I actually needed.
 
-> **New here?** Sign up through my link: [https://make.fun/r/vnk8vtqt](https://make.fun/r/vnk8vtqt)
+> **New here?** Sign up through my link: [https://make.fun/r/4c3akbyz](https://make.fun/r/4c3akbyz)
 >
-> Referral code: `vnk8vtqt`
+> Referral code: `4c3akbyz`
 
 ## Contents
 
@@ -53,7 +53,7 @@ Three things that matter before you start:
 
 ## 1. Make your account
 
-1. Open [https://make.fun/r/vnk8vtqt](https://make.fun/r/vnk8vtqt) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/4c3akbyz](https://make.fun/r/4c3akbyz) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All free. Signing in with a wallet sends no transaction.
 3. Open your profile (avatar, top right) and fill it in: username, picture, short bio.
 4. If you signed in another way, link GitHub and your Solana wallet from your profile too. Entries come from your GitHub repos, prizes go to your wallet.
@@ -162,7 +162,7 @@ node cli/makefun.mjs claim --claim <claim-id> \
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. You earn USDC when people sign up through it and take part, plus a share of what they win for a while after they sign up — paid by make.fun on top, so their own reward stays whole. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count.
 
-If this guide helped, signing up through [my link](https://make.fun/r/vnk8vtqt) (code `vnk8vtqt`) is a nice way to say thanks.
+If this guide helped, signing up through [my link](https://make.fun/r/4c3akbyz) (code `4c3akbyz`) is a nice way to say thanks.
 
 ## Questions people ask
 
@@ -196,4 +196,4 @@ make.fun reads them to check that your own agent built the entry. The kit strips
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/vnk8vtqt · code `vnk8vtqt`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/4c3akbyz · code `4c3akbyz`</sub>
